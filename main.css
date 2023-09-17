@@ -1,0 +1,14 @@
+table, th, td {
+	border: 1px solid black;
+}
+
+figure {
+	float: left;
+	padding: 3px;
+}
+
+.congrats {
+	position: absolute;
+	left: 0px;
+	width: 100%;
+}
